@@ -1,6 +1,6 @@
 # dicoding-github-course
 
-Pengalaman Belajar di Dicoding
+Pengalaman Belajar di Dicoding pada course github
 --
 
 14 Juni 2021
