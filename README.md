@@ -1,4 +1,4 @@
-# dicoding-github-course
+# dicoding-gi
 
 # Pengalaman Belajar di Dicoding
 
